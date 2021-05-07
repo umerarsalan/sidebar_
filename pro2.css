@@ -1,0 +1,11 @@
+.side{
+    position: absolute;
+    height: 120vh;
+    overflow: scroll;
+    width: 400px;
+    position: absolute;
+    left: 10px;
+
+
+
+}
